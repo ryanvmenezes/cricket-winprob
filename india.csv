@@ -1,0 +1,175 @@
+game_id,date,venue,city,neutral,match_type,overs,team_inn1,team_inn2,toss_winner,toss_decision,match_winner,win_type,margin,umpires,man_of_match
+386530,2009-01-28,Rangiri Dambulla International Stadium,,0,ODI,50,Sri Lanka,India,India,field,India,wickets,6.0,HDPK Dharmasena|BG Jerling,ST Jayasuriya
+386531,2009-01-31,R Premadasa Stadium,Colombo,0,ODI,50,India,Sri Lanka,India,bat,India,runs,15.0,BG Jerling|MG Silva,I Sharma
+386532,2009-02-03,R Premadasa Stadium,Colombo,0,ODI,50,India,Sri Lanka,India,bat,India,runs,147.0,BG Jerling|MG Silva,Yuvraj Singh
+386533,2009-02-05,R Premadasa Stadium,Colombo,0,ODI,50,India,Sri Lanka,India,bat,India,runs,67.0,HDPK Dharmasena|BG Jerling,G Gambhir
+386534,2009-02-08,R Premadasa Stadium,Colombo,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,runs,68.0,BG Jerling|TH Wijewardene,KC Sangakkara
+366623,2009-03-03,McLean Park,Napier,0,ODI,50,India,New Zealand,India,bat,India,runs,53.0,AL Hill|RE Koertzen,MS Dhoni
+366626,2009-03-06,Westpac Stadium,Wellington,0,ODI,50,India,New Zealand,India,bat,no result,,,RE Koertzen|EA Watkin,
+366627,2009-03-08,AMI Stadium,Christchurch,0,ODI,50,India,New Zealand,New Zealand,field,India,runs,58.0,GAV Baxter|RE Koertzen,SR Tendulkar
+366624,2009-03-11,Seddon Park,Hamilton,0,ODI,50,New Zealand,India,New Zealand,bat,India,runs,84.0,GAV Baxter|RE Koertzen,V Sehwag
+366625,2009-03-14,Eden Park,Auckland,0,ODI,50,India,New Zealand,India,bat,New Zealand,wickets,8.0,GAV Baxter|RE Koertzen,JD Ryder
+377313,2009-06-26,"Sabina Park, Kingston",Jamaica,0,ODI,50,India,West Indies,India,bat,India,runs,20.0,NJ Llong|NA Malcolm,Yuvraj Singh
+377314,2009-06-28,"Sabina Park, Kingston",Jamaica,0,ODI,50,India,West Indies,India,bat,West Indies,wickets,8.0,NJ Llong|NA Malcolm,R Rampaul
+377315,2009-07-03,"Beausejour Stadium, Gros Islet",St Lucia,0,ODI,50,West Indies,India,India,field,India,wickets,6.0,CR Duncan|NJ Llong,MS Dhoni
+377316,2009-07-05,"Beausejour Stadium, Gros Islet",St Lucia,0,ODI,50,West Indies,India,India,field,no result,,,CR Duncan|NJ Llong,
+403382,2009-09-11,R Premadasa Stadium,Colombo,1,ODI,50,New Zealand,India,New Zealand,bat,India,wickets,6.0,HDPK Dharmasena|BR Doctrove,A Nehra
+403381,2009-09-12,R Premadasa Stadium,Colombo,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,runs,139.0,HDPK Dharmasena|BR Doctrove,AD Mathews
+403383,2009-09-14,R Premadasa Stadium,Colombo,0,ODI,50,India,Sri Lanka,India,bat,India,runs,46.0,EAR de Silva|BR Doctrove,SR Tendulkar
+415278,2009-09-26,SuperSport Park,Centurion,1,ODI,50,Pakistan,India,Pakistan,bat,Pakistan,runs,54.0,SJ Davis|SJA Taufel,Shoaib Malik
+415281,2009-09-28,SuperSport Park,Centurion,1,ODI,50,Australia,India,Australia,bat,no result,,,BF Bowden|IJ Gould,
+415284,2009-09-30,New Wanderers Stadium,Johannesburg,1,ODI,50,West Indies,India,India,field,India,wickets,7.0,Aleem Dar|SJA Taufel,V Kohli
+416236,2009-10-25,Reliance Stadium,Vadodara,0,ODI,50,Australia,India,Australia,bat,Australia,runs,4.0,AM Saheba|SK Tarapore,MEK Hussey
+416237,2009-10-28,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,0,ODI,50,India,Australia,Australia,field,India,runs,99.0,AM Saheba|SK Tarapore,MS Dhoni
+416238,2009-10-31,Feroz Shah Kotla,Delhi,0,ODI,50,Australia,India,Australia,bat,India,wickets,6.0,SS Hazare|AM Saheba,Yuvraj Singh
+416239,2009-11-02,"Punjab Cricket Association Stadium, Mohali",Chandigarh,0,ODI,50,Australia,India,India,field,Australia,runs,24.0,EAR de Silva|AM Saheba,SR Watson
+416240,2009-11-05,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,0,ODI,50,Australia,India,Australia,bat,Australia,runs,3.0,EAR de Silva|SK Tarapore,SR Tendulkar
+416241,2009-11-08,Nehru Stadium,Guwahati,0,ODI,50,India,Australia,India,bat,Australia,wickets,6.0,EAR de Silva|SK Tarapore,DE Bollinger
+430886,2009-12-15,Madhavrao Scindia Cricket Ground,Rajkot,0,ODI,50,India,Sri Lanka,Sri Lanka,field,India,runs,3.0,M Erasmus|SK Tarapore,V Sehwag
+430887,2009-12-18,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,0,ODI,50,India,Sri Lanka,India,bat,Sri Lanka,wickets,3.0,M Erasmus|SK Tarapore,TM Dilshan
+430888,2009-12-21,Barabati Stadium,Cuttack,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,7.0,M Erasmus|SS Hazare,RA Jadeja
+430889,2009-12-24,Eden Gardens,Kolkata,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,7.0,M Erasmus|SS Hazare,G Gambhir
+430890,2009-12-27,Feroz Shah Kotla,Delhi,0,ODI,50,Sri Lanka,India,India,field,no result,,,M Erasmus|SK Tarapore,
+434259,2010-01-05,Shere Bangla National Stadium,Mirpur,1,ODI,50,India,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,5.0,Nadir Shah|SJA Taufel,TT Samaraweera
+434260,2010-01-07,Shere Bangla National Stadium,Mirpur,0,ODI,50,Bangladesh,India,Bangladesh,bat,India,wickets,6.0,Enamul Haque|IJ Gould,MS Dhoni
+434262,2010-01-10,Shere Bangla National Stadium,Mirpur,1,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,8.0,Enamul Haque|IJ Gould,Z Khan
+434263,2010-01-11,Shere Bangla National Stadium,Mirpur,0,ODI,50,Bangladesh,India,India,field,India,wickets,6.0,Sharfuddoula|SJA Taufel,V Kohli
+434264,2010-01-13,Shere Bangla National Stadium,Mirpur,1,ODI,50,India,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,4.0,Enamul Haque|IJ Gould,KMDN Kulasekara
+441827,2010-02-21,Sawai Mansingh Stadium,Jaipur,0,ODI,50,India,South Africa,South Africa,field,India,runs,1.0,AM Saheba|SK Tarapore,RA Jadeja
+441828,2010-02-24,Captain Roop Singh Stadium,Gwalior,0,ODI,50,India,South Africa,India,bat,India,runs,153.0,IJ Gould|SK Tarapore,SR Tendulkar
+441829,2010-02-27,"Sardar Patel Stadium, Motera",Ahmedabad,0,ODI,50,South Africa,India,South Africa,bat,South Africa,runs,90.0,IJ Gould|SS Hazare,AB de Villiers
+452146,2010-05-28,Queens Sports Club,Bulawayo,0,ODI,50,India,Zimbabwe,India,bat,Zimbabwe,wickets,6.0,BG Jerling|RB Tiffin,BRM Taylor
+452147,2010-05-30,Queens Sports Club,Bulawayo,1,ODI,50,Sri Lanka,India,India,field,India,wickets,7.0,BG Jerling|RB Tiffin,RG Sharma
+452149,2010-06-03,Harare Sports Club,,0,ODI,50,India,Zimbabwe,Zimbabwe,field,Zimbabwe,wickets,7.0,O Chirombe|RE Koertzen,BRM Taylor
+452150,2010-06-05,Harare Sports Club,,1,ODI,50,India,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,6.0,RE Koertzen|RB Tiffin,LD Chandimal
+455232,2010-06-16,Rangiri Dambulla International Stadium,,1,ODI,50,Bangladesh,India,Bangladesh,bat,India,wickets,6.0,BR Doctrove|BNJ Oxenford,G Gambhir
+455234,2010-06-19,Rangiri Dambulla International Stadium,,1,ODI,50,Pakistan,India,Pakistan,bat,India,wickets,3.0,BF Bowden|BR Doctrove,G Gambhir
+455236,2010-06-22,Rangiri Dambulla International Stadium,,0,ODI,50,India,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,7.0,BF Bowden|BNJ Oxenford,MF Maharoof
+455237,2010-06-24,Rangiri Dambulla International Stadium,,0,ODI,50,India,Sri Lanka,India,bat,India,runs,81.0,BF Bowden|BR Doctrove,KD Karthik
+456662,2010-08-10,Rangiri Dambulla International Stadium,,1,ODI,50,New Zealand,India,New Zealand,bat,New Zealand,runs,200.0,R Martinesz|SJA Taufel,LRPL Taylor
+456663,2010-08-16,Rangiri Dambulla International Stadium,,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,6.0,Asad Rauf|REJ Martinesz,V Sehwag
+456666,2010-08-22,Rangiri Dambulla International Stadium,,0,ODI,50,India,Sri Lanka,India,bat,Sri Lanka,wickets,8.0,Asad Rauf|HDPK Dharmasena,NLTC Perera
+456665,2010-08-25,Rangiri Dambulla International Stadium,,1,ODI,50,India,New Zealand,India,bat,India,runs,105.0,Asad Rauf|EAR de Silva,V Sehwag
+456668,2010-08-28,Rangiri Dambulla International Stadium,,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,runs,74.0,Asad Rauf|EAR de Silva,TM Dilshan
+464529,2010-10-20,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,0,ODI,50,Australia,India,India,field,India,wickets,5.0,BF Bowden|SK Tarapore,V Kohli
+467883,2010-11-28,Nehru Stadium,Guwahati,0,ODI,50,India,New Zealand,New Zealand,field,India,runs,40.0,NJ Llong|SK Tarapore,V Kohli
+467884,2010-12-01,Sawai Mansingh Stadium,Jaipur,0,ODI,50,New Zealand,India,India,field,India,wickets,8.0,SS Hazare|NJ Llong,G Gambhir
+467885,2010-12-04,Reliance Stadium,Vadodara,0,ODI,50,New Zealand,India,India,field,India,wickets,9.0,RA Kettleborough|SK Tarapore,G Gambhir
+467886,2010-12-07,M Chinnaswamy Stadium,Bangalore,0,ODI,50,New Zealand,India,India,field,India,wickets,5.0,RA Kettleborough|AM Saheba,YK Pathan
+467887,2010-12-10,"MA Chidambaram Stadium, Chepauk",Chennai,0,ODI,50,New Zealand,India,New Zealand,bat,India,wickets,8.0,RA Kettleborough|AM Saheba,Yuvraj Singh
+463150,2011-01-12,Kingsmead,Durban,0,ODI,50,South Africa,India,South Africa,bat,South Africa,runs,135.0,M Erasmus|SJA Taufel,LL Tsotsobe
+463151,2011-01-15,New Wanderers Stadium,Johannesburg,0,ODI,50,India,South Africa,India,bat,India,runs,1.0,BG Jerling|SJA Taufel,MM Patel
+463152,2011-01-18,Newlands,Cape Town,0,ODI,50,South Africa,India,South Africa,bat,India,wickets,2.0,JD Cloete|SJA Taufel,YK Pathan
+463153,2011-01-21,St George's Park,Port Elizabeth,0,ODI,50,South Africa,India,South Africa,bat,South Africa,runs,48.0,JD Cloete|SJA Taufel,JP Duminy
+463154,2011-01-23,SuperSport Park,Centurion,0,ODI,50,South Africa,India,India,field,South Africa,runs,33.0,BG Jerling|SJA Taufel,HM Amla
+433558,2011-02-19,Shere Bangla National Stadium,Mirpur,0,ODI,50,India,Bangladesh,Bangladesh,field,India,runs,87.0,SJ Davis|HDPK Dharmasena,V Sehwag
+433568,2011-02-27,M Chinnaswamy Stadium,Bangalore,0,ODI,50,India,England,India,bat,tie,,,BF Bowden|M Erasmus,
+433578,2011-03-06,M Chinnaswamy Stadium,Bangalore,0,ODI,50,Ireland,India,India,field,India,wickets,5.0,BF Bowden|RJ Tucker,Yuvraj Singh
+433582,2011-03-09,Feroz Shah Kotla,Delhi,0,ODI,50,Netherlands,India,Netherlands,bat,India,wickets,5.0,SJ Davis|BNJ Oxenford,Yuvraj Singh
+433586,2011-03-12,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,0,ODI,50,India,South Africa,India,bat,South Africa,wickets,3.0,IJ Gould|SJA Taufel,DW Steyn
+433599,2011-03-20,"MA Chidambaram Stadium, Chepauk",Chennai,0,ODI,50,India,West Indies,India,bat,India,runs,80.0,SJ Davis|SJA Taufel,Yuvraj Singh
+433601,2011-03-24,"Sardar Patel Stadium, Motera",Ahmedabad,0,ODI,50,Australia,India,Australia,bat,India,wickets,5.0,M Erasmus|IJ Gould,Yuvraj Singh
+433605,2011-03-30,"Punjab Cricket Association Stadium, Mohali",Chandigarh,0,ODI,50,India,Pakistan,India,bat,India,runs,29.0,IJ Gould|SJA Taufel,SR Tendulkar
+433606,2011-04-02,Wankhede Stadium,Mumbai,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,6.0,Aleem Dar|SJA Taufel,MS Dhoni
+489221,2011-06-06,"Queen's Park Oval, Port of Spain",Trinidad,0,ODI,50,West Indies,India,West Indies,bat,India,wickets,4.0,IJ Gould|PJ Nero,RG Sharma
+489222,2011-06-08,"Queen's Park Oval, Port of Spain",Trinidad,0,ODI,50,West Indies,India,India,field,India,wickets,7.0,IJ Gould|PJ Nero,V Kohli
+489223,2011-06-11,"Sir Vivian Richards Stadium, North Sound",Antigua,0,ODI,50,West Indies,India,India,field,India,wickets,3.0,IJ Gould|NA Malcolm,AD Russell
+489224,2011-06-13,"Sir Vivian Richards Stadium, North Sound",Antigua,0,ODI,50,West Indies,India,India,field,West Indies,runs,103.0,IJ Gould|NA Malcolm,A Martin
+489225,2011-06-16,"Sabina Park, Kingston",Jamaica,0,ODI,50,India,West Indies,West Indies,field,West Indies,wickets,7.0,IJ Gould|JS Wilson,AD Russell
+474477,2011-09-03,Riverside Ground,Chester-le-Street,0,ODI,50,India,England,England,field,no result,,,BR Doctrove|RK Illingworth,
+474478,2011-09-06,The Rose Bowl,Southampton,0,ODI,50,India,England,England,field,England,wickets,7.0,RJ Bailey|BR Doctrove,AN Cook
+474479,2011-09-09,Kennington Oval,London,0,ODI,50,India,England,England,field,England,wickets,3.0,M Erasmus|NJ Llong,RA Jadeja
+474480,2011-09-11,Lord's,London,0,ODI,50,India,England,England,field,tie,,,M Erasmus|RK Illingworth,
+474481,2011-09-16,Sophia Gardens,Cardiff,0,ODI,50,India,England,England,field,England,wickets,6.0,BR Doctrove|NJ Llong,JM Bairstow
+521218,2011-10-14,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,0,ODI,50,India,England,India,bat,India,runs,126.0,BF Bowden|SK Tarapore,MS Dhoni
+521219,2011-10-17,Feroz Shah Kotla,Delhi,0,ODI,50,England,India,England,bat,India,wickets,8.0,BF Bowden|SK Tarapore,V Kohli
+521220,2011-10-20,"Punjab Cricket Association Stadium, Mohali",Chandigarh,0,ODI,50,England,India,England,bat,India,wickets,5.0,S Asnani|BF Bowden,AM Rahane
+521221,2011-10-23,Wankhede Stadium,Mumbai,0,ODI,50,England,India,England,bat,India,wickets,6.0,S Asnani|BF Bowden,SK Raina
+521222,2011-10-25,Eden Gardens,Kolkata,0,ODI,50,India,England,England,field,India,runs,95.0,S Asnani|BF Bowden,RA Jadeja
+536929,2011-11-29,Barabati Stadium,Cuttack,0,ODI,50,West Indies,India,India,field,India,wickets,1.0,AL Hill|SK Tarapore,RG Sharma
+536930,2011-12-02,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,0,ODI,50,West Indies,India,India,field,India,wickets,5.0,AL Hill|S Ravi,V Kohli
+536931,2011-12-05,"Sardar Patel Stadium, Motera",Ahmedabad,0,ODI,50,West Indies,India,India,field,West Indies,runs,16.0,S Asnani|AL Hill,R Rampaul
+536932,2011-12-08,Holkar Cricket Stadium,Indore,0,ODI,50,India,West Indies,India,bat,India,runs,153.0,AL Hill|S Ravi,V Sehwag
+536933,2011-12-11,"MA Chidambaram Stadium, Chepauk",Chennai,0,ODI,50,India,West Indies,India,bat,India,runs,34.0,S Asnani|AL Hill,MK Tiwary
+518956,2012-02-05,Melbourne Cricket Ground,,0,ODI,50,Australia,India,India,field,Australia,runs,65.0,NJ Llong|BNJ Oxenford,MS Wade
+518957,2012-02-08,Western Australia Cricket Association Ground,Perth,1,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,4.0,NJ Llong|PR Reiffel,R Ashwin
+518959,2012-02-12,Adelaide Oval,,0,ODI,50,Australia,India,Australia,bat,India,wickets,4.0,NJ Llong|PR Reiffel,G Gambhir
+518960,2012-02-14,Adelaide Oval,,1,ODI,50,Sri Lanka,India,Sri Lanka,bat,tie,,,SD Fry|NJ Llong,
+518962,2012-02-19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,0,ODI,50,Australia,India,Australia,bat,Australia,runs,110.0,BF Bowden|SJ Davis,BW Hilfenhaus
+518963,2012-02-21,"Brisbane Cricket Ground, Woolloongabba",Brisbane,1,ODI,50,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,runs,51.0,BF Bowden|PR Reiffel,KMDN Kulasekara
+518965,2012-02-26,Sydney Cricket Ground,,0,ODI,50,Australia,India,Australia,bat,Australia,runs,87.0,BF Bowden|SJA Taufel,DA Warner
+518966,2012-02-28,Bellerive Oval,Hobart,1,ODI,50,Sri Lanka,India,India,field,India,wickets,7.0,Asad Rauf|SJA Taufel,V Kohli
+535795,2012-03-13,Shere Bangla National Stadium,Mirpur,1,ODI,50,India,Sri Lanka,Sri Lanka,field,India,runs,50.0,SJ Davis|IJ Gould,V Kohli
+535797,2012-03-16,Shere Bangla National Stadium,Mirpur,0,ODI,50,India,Bangladesh,Bangladesh,field,Bangladesh,wickets,5.0,IJ Gould|PR Reiffel,Shakib Al Hasan
+535798,2012-03-18,Shere Bangla National Stadium,Mirpur,1,ODI,50,Pakistan,India,Pakistan,bat,India,wickets,6.0,SJ Davis|IJ Gould,V Kohli
+564781,2012-07-21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,0,ODI,50,India,Sri Lanka,India,bat,India,runs,21.0,REJ Martinesz|BNJ Oxenford,V Kohli
+564782,2012-07-24,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,0,ODI,50,India,Sri Lanka,India,bat,Sri Lanka,wickets,9.0,BNJ Oxenford|RSA Palliyaguruge,NLTC Perera
+564783,2012-07-28,R Premadasa Stadium,Colombo,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,5.0,HDPK Dharmasena|BNJ Oxenford,SK Raina
+564784,2012-07-31,R Premadasa Stadium,Colombo,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,6.0,HDPK Dharmasena|BNJ Oxenford,V Kohli
+564785,2012-08-04,Pallekele International Cricket Stadium,,0,ODI,50,India,Sri Lanka,India,bat,India,runs,20.0,BNJ Oxenford|TH Wijewardene,IK Pathan
+589308,2012-12-30,"MA Chidambaram Stadium, Chepauk",Chennai,0,ODI,50,India,Pakistan,Pakistan,field,Pakistan,wickets,6.0,BF Bowden|S Ravi,MS Dhoni
+589309,2013-01-03,Eden Gardens,Kolkata,0,ODI,50,Pakistan,India,India,field,Pakistan,runs,85.0,BF Bowden|VA Kulkarni,Nasir Jamshed
+589310,2013-01-06,Feroz Shah Kotla,Delhi,0,ODI,50,India,Pakistan,India,bat,India,runs,10.0,S Asnani|BF Bowden,MS Dhoni
+565812,2013-01-11,Saurashtra Cricket Association Stadium,Rajkot,0,ODI,50,England,India,England,bat,England,runs,9.0,SJ Davis|S Ravi,JC Tredwell
+565813,2013-01-15,Nehru Stadium,Kochi,0,ODI,50,India,England,India,bat,India,runs,127.0,SJ Davis|VA Kulkarni,RA Jadeja
+565814,2013-01-19,JSCA International Stadium Complex,Ranchi,0,ODI,50,England,India,India,field,India,wickets,7.0,SJ Davis|S Ravi,V Kohli
+565815,2013-01-23,"Punjab Cricket Association Stadium, Mohali",Chandigarh,0,ODI,50,England,India,India,field,India,wickets,5.0,S Asnani|SJ Davis,SK Raina
+565816,2013-01-27,Himachal Pradesh Cricket Association Stadium,Dharamsala,0,ODI,50,India,England,England,field,England,wickets,7.0,S Asnani|SJ Davis,IR Bell
+578614,2013-06-06,Sophia Gardens,Cardiff,1,ODI,50,India,South Africa,South Africa,field,India,runs,26.0,IJ Gould|BNJ Oxenford,S Dhawan
+578619,2013-06-11,Kennington Oval,London,1,ODI,50,West Indies,India,India,field,India,wickets,8.0,Aleem Dar|AL Hill,RA Jadeja
+578623,2013-06-15,Edgbaston,Birmingham,1,ODI,50,Pakistan,India,India,field,India,wickets,8.0,IJ Gould|RA Kettleborough,B Kumar
+566947,2013-06-20,Sophia Gardens,Cardiff,1,ODI,50,Sri Lanka,India,India,field,India,wickets,8.0,Aleem Dar|RA Kettleborough,I Sharma
+566948,2013-06-23,Edgbaston,Birmingham,0,ODI,50,India,England,England,field,India,runs,5.0,HDPK Dharmasena|RJ Tucker,RA Jadeja
+597924,2013-06-30,"Sabina Park, Kingston",Jamaica,0,ODI,50,India,West Indies,West Indies,field,West Indies,wickets,1.0,IJ Gould|PJ Nero,J Charles
+597925,2013-07-02,"Sabina Park, Kingston",Jamaica,1,ODI,50,Sri Lanka,India,India,field,Sri Lanka,runs,161.0,IJ Gould|JS Wilson,WU Tharanga
+597926,2013-07-05,"Queen's Park Oval, Port of Spain",Trinidad,0,ODI,50,India,West Indies,West Indies,field,India,runs,102.0,NJ Llong|PJ Nero,V Kohli
+597928,2013-07-09,"Queen's Park Oval, Port of Spain",Trinidad,1,ODI,50,India,Sri Lanka,Sri Lanka,field,India,runs,81.0,NJ Llong|PJ Nero,B Kumar
+597929,2013-07-11,"Queen's Park Oval, Port of Spain",Trinidad,1,ODI,50,Sri Lanka,India,India,field,India,wickets,1.0,NJ Llong|PJ Nero,MS Dhoni
+643665,2013-07-24,Harare Sports Club,,0,ODI,50,Zimbabwe,India,India,field,India,wickets,6.0,BNJ Oxenford|RB Tiffin,V Kohli
+643667,2013-07-26,Harare Sports Club,,0,ODI,50,India,Zimbabwe,Zimbabwe,field,India,runs,58.0,O Chirombe|BNJ Oxenford,S Dhawan
+643669,2013-07-28,Harare Sports Club,,0,ODI,50,Zimbabwe,India,India,field,India,wickets,7.0,BNJ Oxenford|RB Tiffin,A Mishra
+643675,2013-08-01,Queens Sports Club,Bulawayo,0,ODI,50,Zimbabwe,India,India,field,India,wickets,9.0,TJ Matibiri|BNJ Oxenford,MM Sharma
+643677,2013-08-03,Queens Sports Club,Bulawayo,0,ODI,50,Zimbabwe,India,India,field,India,wickets,7.0,O Chirombe|BNJ Oxenford,A Mishra
+647249,2013-10-13,Maharashtra Cricket Association Stadium,Pune,0,ODI,50,Australia,India,Australia,bat,Australia,runs,72.0,RA Kettleborough|VA Kulkarni,GJ Bailey
+647251,2013-10-16,Sawai Mansingh Stadium,Jaipur,0,ODI,50,Australia,India,Australia,bat,India,wickets,9.0,RA Kettleborough|VA Kulkarni,RG Sharma
+647253,2013-10-19,"Punjab Cricket Association Stadium, Mohali",Chandigarh,0,ODI,50,India,Australia,Australia,field,Australia,wickets,4.0,RA Kettleborough|C Shamshuddin,JP Faulkner
+647255,2013-10-23,JSCA International Stadium Complex,Ranchi,0,ODI,50,Australia,India,India,field,no result,,,RA Kettleborough|VA Kulkarni,
+647259,2013-10-30,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,0,ODI,50,Australia,India,India,field,India,wickets,6.0,NJ Llong|S Ravi,V Kohli
+647261,2013-11-02,M Chinnaswamy Stadium,Bangalore,0,ODI,50,India,Australia,Australia,field,India,runs,57.0,NJ Llong|S Ravi,RG Sharma
+676529,2013-11-21,Nehru Stadium,Kochi,0,ODI,50,West Indies,India,West Indies,bat,India,wickets,6.0,VA Kulkarni|RJ Tucker,V Kohli
+676531,2013-11-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,0,ODI,50,India,West Indies,West Indies,field,West Indies,wickets,2.0,VA Kulkarni|RJ Tucker,DJG Sammy
+676533,2013-11-27,Green Park,Kanpur,0,ODI,50,West Indies,India,India,field,India,wickets,5.0,AK Chaudhary|RJ Tucker,S Dhawan
+648651,2013-12-05,New Wanderers Stadium,Johannesburg,0,ODI,50,South Africa,India,India,field,South Africa,runs,141.0,AT Holdstock|RK Illingworth,Q de Kock
+648653,2013-12-08,Kingsmead,Durban,0,ODI,50,South Africa,India,India,field,South Africa,runs,134.0,S George|RK Illingworth,Q de Kock
+648655,2013-12-11,SuperSport Park,Centurion,0,ODI,50,South Africa,India,South Africa,bat,no result,,,JD Cloete|RK Illingworth,
+667641,2014-01-19,McLean Park,Napier,0,ODI,50,New Zealand,India,India,field,New Zealand,runs,24.0,RJ Tucker|DJ Walker,CJ Anderson
+667643,2014-01-22,Seddon Park,Hamilton,0,ODI,50,New Zealand,India,India,field,New Zealand,runs,15.0,CB Gaffaney|RJ Tucker,KS Williamson
+667645,2014-01-25,Eden Park,Auckland,0,ODI,50,New Zealand,India,India,field,tie,,,BF Bowden|RJ Tucker,
+667647,2014-01-28,Seddon Park,Hamilton,0,ODI,50,India,New Zealand,India,bat,New Zealand,wickets,7.0,GAV Baxter|RJ Tucker,LRPL Taylor
+667649,2014-01-31,Westpac Stadium,Wellington,0,ODI,50,New Zealand,India,India,field,New Zealand,runs,87.0,BF Bowden|RJ Tucker,LRPL Taylor
+710293,2014-02-26,Khan Shaheb Osman Ali Stadium,Fatullah,0,ODI,50,Bangladesh,India,India,field,India,wickets,6.0,BF Bowden|NJ Llong,V Kohli
+710297,2014-02-28,Khan Shaheb Osman Ali Stadium,Fatullah,1,ODI,50,India,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,2.0,NJ Llong|BNJ Oxenford,KC Sangakkara
+710301,2014-03-02,Shere Bangla National Stadium,Mirpur,1,ODI,50,India,Pakistan,Pakistan,field,Pakistan,wickets,1.0,NJ Llong|BNJ Oxenford,Mohammad Hafeez
+710307,2014-03-05,Shere Bangla National Stadium,Mirpur,1,ODI,50,Afghanistan,India,India,field,India,wickets,8.0,BF Bowden|NJ Llong,RA Jadeja
+744679,2014-06-15,Shere Bangla National Stadium,Mirpur,0,ODI,50,Bangladesh,India,Bangladesh,bat,India,wickets,7.0,HDPK Dharmasena|Enamul Haque,AM Rahane
+744681,2014-06-17,Shere Bangla National Stadium,Mirpur,0,ODI,50,India,Bangladesh,Bangladesh,field,India,runs,47.0,HDPK Dharmasena|Sharfuddoula,STR Binny
+744683,2014-06-19,Shere Bangla National Stadium,Mirpur,0,ODI,50,India,Bangladesh,India,bat,no result,,,HDPK Dharmasena|Enamul Haque,
+667723,2014-08-27,Sophia Gardens,Cardiff,0,ODI,50,India,England,England,field,India,runs,133.0,RK Illingworth|PR Reiffel,SK Raina
+667725,2014-08-30,Trent Bridge,Nottingham,0,ODI,50,England,India,India,field,India,wickets,6.0,MA Gough|PR Reiffel,R Ashwin
+667727,2014-09-02,Edgbaston,Birmingham,0,ODI,50,England,India,India,field,India,wickets,9.0,PR Reiffel|RT Robinson,AM Rahane
+667729,2014-09-05,Headingley,Leeds,0,ODI,50,England,India,India,field,England,runs,41.0,RA Kettleborough|PR Reiffel,JE Root
+770121,2014-10-08,Nehru Stadium,Kochi,0,ODI,50,West Indies,India,India,field,West Indies,runs,124.0,IJ Gould|S Ravi,MN Samuels
+770123,2014-10-11,Feroz Shah Kotla,Delhi,0,ODI,50,India,West Indies,India,bat,India,runs,48.0,IJ Gould|S Ravi,Mohammed Shami
+770127,2014-10-17,Himachal Pradesh Cricket Association Stadium,Dharmasala,0,ODI,50,India,West Indies,West Indies,field,India,runs,59.0,IJ Gould|VA Kulkarni,V Kohli
+792289,2014-11-02,Barabati Stadium,Cuttack,0,ODI,50,India,Sri Lanka,Sri Lanka,field,India,runs,169.0,VA Kulkarni|BNJ Oxenford,AM Rahane
+792291,2014-11-06,"Sardar Patel Stadium, Motera",Ahmedabad,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,6.0,VA Kulkarni|BNJ Oxenford,AT Rayudu
+792293,2014-11-09,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,6.0,VA Kulkarni|BNJ Oxenford,DPMD Jayawardene
+792295,2014-11-13,Eden Gardens,Kolkata,0,ODI,50,India,Sri Lanka,India,bat,India,runs,153.0,BNJ Oxenford|S Ravi,RG Sharma
+792297,2014-11-16,JSCA International Stadium Complex,Ranchi,0,ODI,50,Sri Lanka,India,Sri Lanka,bat,India,wickets,3.0,BNJ Oxenford|S Ravi,AD Mathews
+754749,2015-01-18,Melbourne Cricket Ground,,0,ODI,50,India,Australia,India,bat,Australia,wickets,4.0,HDPK Dharmasena|JD Ward,MA Starc
+754753,2015-01-20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,1,ODI,50,India,England,India,bat,England,wickets,9.0,HDPK Dharmasena|MD Martell,ST Finn
+754757,2015-01-26,Sydney Cricket Ground,,0,ODI,50,India,Australia,Australia,field,no result,,,M Erasmus|P Wilson,
+754759,2015-01-30,Western Australia Cricket Association Ground,Perth,1,ODI,50,India,England,England,field,England,wickets,3.0,M Erasmus|JD Ward,JWA Taylor
+656405,2015-02-15,Adelaide Oval,,1,ODI,50,India,Pakistan,India,bat,India,runs,76.0,IJ Gould|RA Kettleborough,V Kohli
+656423,2015-02-22,Melbourne Cricket Ground,,1,ODI,50,India,South Africa,India,bat,India,runs,130.0,Aleem Dar|RA Kettleborough,S Dhawan
+656439,2015-02-28,Western Australia Cricket Association Ground,Perth,1,ODI,50,United Arab Emirates,India,United Arab Emirates,bat,India,wickets,9.0,BF Bowden|MA Gough,R Ashwin

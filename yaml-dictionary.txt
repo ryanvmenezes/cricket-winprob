@@ -1,0 +1,62 @@
+meta
+	data_version
+	created
+	revision
+
+info
+	bowl_out*
+		bowler*
+		outcome*
+	city*
+	dates
+	match_type (test, odi, t20, it20, odm, mdm)
+	neutral_venue (1 if yes)
+	outcome
+		by*
+			innings*
+			runs*
+			wickets*
+		bowl_out* (lists winner)
+		eliminator* (lists winner)
+		method* (only D/L if applicable)
+		result* (draw, no result, tie)
+		winner*
+	overs* (50, 20)
+	player_of_match*
+	teams (array of 2)
+	toss
+		winner
+		decision
+	umpires
+	venue*
+
+innings
+	1st/2nd innings
+		team
+		absent_hurt*
+		declared*
+		deliveries
+			key: ball (23.5)
+				batsman
+				non_striker
+				bowler
+				runs
+					batsman
+					extras
+					total
+					non_boundary* (indicates if 4 or 6 not boundary)
+					supersub*
+						in*
+						out*
+						team*
+				wicket
+					kind
+					player_out
+					fielders*
+				extras*
+					legbyes*
+					byes*
+					noballs*
+					penalty*
+					wides*
+
