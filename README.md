@@ -24,5 +24,5 @@ Grabs the latest .zip of ODI data from [Cricsheet.org](http://cricsheet.org/) an
 
 Creates the following files:
 
-`odi_info.csv` (about XX MB) -- information about the game such as location, teams, toss, etc.
-`odi_ballbyball.csv' (about XX MB) -- every ball in every ODI match
+`odi_info.csv` (about 0.1 MB) -- information about the game such as location, teams, toss, etc.
+`odi_ballbyball.csv` (about 50 MB) -- every ball in every ODI match
