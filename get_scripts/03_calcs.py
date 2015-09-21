@@ -54,4 +54,4 @@ balls_w_chase['runs_to_chase'] = balls_w_chase.chase_total - balls_w_chase.inn_r
 # fix
 balls_w_chase.runs_to_chase[balls_w_chase.runs_to_chase < 0] = 0
 
-balls_w_chase.to_csv('master_data/odi_ball_info_trim.csv', index = False)
+balls_w_chase.to_csv('master_data/odi_ballinfotrim.csv', index = False)
