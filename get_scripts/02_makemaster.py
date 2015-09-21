@@ -1,6 +1,7 @@
 import pandas as pd
 import glob
 import yaml
+import os
 
 files = glob.glob('all_odis/*.yaml')
 
@@ -78,11 +79,14 @@ GAME_COLUMNS = ['game_id','innings','batting_side','over_number','ball_in_over',
 info_list = []
 allgames_df = pd.DataFrame(None, columns = GAME_COLUMNS)
 
+progress = 1
+total_files = len(files)
+
 for f in files:
     with open(f,'r') as gamefile:
         game = yaml.load(gamefile)
     gameid = f[9:15]
-    print 'starting game ' + gameid
+    print 'starting game {} | progress: {} / {}'.format(gameid, progress, total_files)
 
     # get info
     info_dict = game['info']
@@ -92,6 +96,8 @@ for f in files:
     # get ball by ball
     ind_game_df = pd.DataFrame(get_ball_by_ball(game['innings'], gameid), columns = GAME_COLUMNS)
     allgames_df = pd.concat([allgames_df, ind_game_df], axis = 0)
+
+    progress += 1
 
 match_info = pd.DataFrame(info_list, columns = INFO_COLUMNS)
 
