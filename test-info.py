@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import yaml
 
-files = glob.glob('odi-data\*.yaml')
+files = glob.glob('odi-data/*.yaml')
 
 def get_game_info(info_dict):
     start_date = info_dict['dates'][0].strftime('%Y-%m-%d')
@@ -30,18 +30,65 @@ def get_game_info(info_dict):
     return (start_date, venue, city, neutral, match_type, overs, team_inn1, team_inn2, toss_winner, toss_decision, 
             match_winner, win_type, margin, umpires, man_of_match)
 
-infos = []
+def get_ball_by_ball(innings_obj):
+    all_balls = dict(innings_obj[0].items() + innings_obj[1].items())
+    all_info = []
+    for innings in all_balls.keys():
+        batting_side = all_balls[innings]['team']
+        balls = all_balls[innings]['deliveries']
+        for b in balls:
+            ball_key = b.keys()[0]
+            ball_id = str(ball_key).split('.')
+            over_number = ball_id[0]
+            ball_in_over = ball_id[1]
+            ball_details = b[ball_key]
+            bowler = ball_details['bowler']
+            batsman = ball_details['batsman']
+            non_striker = ball_details['non_striker']
+            batted_runs = ball_details['runs']['batsman']
+            total_extras = ball_details['runs']['extras']
+            total_runs = ball_details['runs']['total']
+            if ball_details.get('extras') is not None:
+                xb = ball_details['extras'].get('byes',None)
+                xlb = ball_details['extras'].get('legbyes',None)
+                xnb = ball_details['extras'].get('noballs',None)
+                xw = ball_details['extras'].get('wides',None)
+                xpen = ball_details['extras'].get('penalty',None)
+            else:
+                xb, xlb, xnb, xw, xpen = (None,) * 5
+            non_boundary = ball_details['runs'].get('non_boundary',0)
+            if ball_details.get('wicket') is not None:
+                wicket = 1
+                kind = ball_details['wicket']['kind']
+                player_out = ball_details['wicket']['player_out']
+                fielders = '|'.join(ball_details['wicket']['fielders']) if bool(ball_details['wicket'].get('fielders')) else None
+            else:
+                wicket, kind, player_out, fielders = (None,) * 4
+            all_info.append((innings, batting_side, over_number, ball_in_over, bowler, batsman, non_striker,
+                batted_runs, xb, xlb, xnb, xw, xpen, total_extras, total_runs, non_boundary, wicket, kind, player_out, fielders))
+    return all_info
+
+INFO_COLUMNS = ['game_id','date','venue','city','neutral','match_type','overs','team_inn1','team_inn2','toss_winner','toss_decision','match_winner','win_type','margin','umpires','man_of_match']
+GAME_COLUMNS = ['game_id','innings','batting_side','over_number','ball_in_over','bowler','batsman','non_striker','batted_runs','xb','xlb','xnb','xw','xpen','total_extras','total_runs','non_boundary','wicket','kind','player_out','fielders']
+
+info_list = []
+games_df = pd.DataFrame(None, GAME_COLUMNS)
 
 for f in files:
     with open(f,'r') as gamefile:
         game = yaml.load(gamefile)
     gameid = f[9:15]
     print 'starting game ' + gameid
+
+    # get info
     info_dict = game['info']
     results = (gameid,) + get_game_info(info_dict)
     infos.append(results)
-    
 
-match_info = pd.DataFrame(infos, columns = ['game_id','date','venue','city','neutral','match_type','overs','team_inn1','team_inn2','toss_winner','toss_decision','match_winner','win_type','margin','umpires','man_of_match'])
+    # get ball by ball
+    games_df = pd.concat(get_ball_by_ball(game['innings']), axis = 0)    
 
-match_info.to_csv('cricsheet_odi_international_info.csv',index = False)
+match_info = pd.DataFrame(infos, columns = INFO_COLUMNS)
+
+match_info.to_csv('master_data/odi_info.csv',index = False)
+games_df.to_csv('odi_ballbyball', index = False)
