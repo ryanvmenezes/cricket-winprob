@@ -95,5 +95,8 @@ for f in files:
 
 match_info = pd.DataFrame(info_list, columns = INFO_COLUMNS)
 
+if not os.path.exists('master_data'):
+    os.makedirs('master_data')
+
 match_info.to_csv('master_data/odi_info.csv',index = False)
 allgames_df.to_csv('master_data/odi_ballbyball.csv', index = False)
