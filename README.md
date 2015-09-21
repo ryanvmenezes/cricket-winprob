@@ -7,3 +7,22 @@ This project began after I watched India play Zimbabwe in the 2015 Cricket World
 Sources:
 * https://saidee27.wordpress.com/2014/09/29/in-game-win-probability-twenty20-cricket/
 * http://thespread.us/
+
+## To get started:
+
+```
+$ python get_data.py
+```
+
+This will run the following scipts (and take a few minutes to complete):
+
+1. `01_download.py`
+
+Grabs the latest .zip of ODI data from [Cricsheet.org](http://cricsheet.org/) and unpacks it to a folder named `all_odis`.
+
+2. `02_makemaster.py`
+
+Creates the following files:
+
+`odi_info.csv` (about XX MB) -- information about the game such as location, teams, toss, etc.
+`odi_ballbyball.csv' (about XX MB) -- every ball in every ODI match
