@@ -14,7 +14,7 @@ Sources:
 $ python get_data.py
 ```
 
-This will run the following scipts (and take a few minutes to complete):
+This will run the following scripts in the `get_scripts` folder (and take a few minutes to complete):
 
 1. `01_download.py`
 
