@@ -13,6 +13,7 @@ Sources:
 ```
 $ python get_scripts/01_download.py
 $ python get_scripts/02_makemaster.py
+$ python get_scripts/03_calcs.py
 ```
 
 This will do the following (and take a few minutes to complete):
@@ -23,3 +24,5 @@ This will do the following (and take a few minutes to complete):
 
 `odi_info.csv` (about 0.1 MB) -- information about the game such as location, teams, toss, etc.
 `odi_ballbyball.csv` (about 50 MB) -- every ball in every ODI match
+
+3. Process the master files into `odi_ballinfotrim.csv` that merges some ball and match info and has extra columns with basic calculation about the game state.
