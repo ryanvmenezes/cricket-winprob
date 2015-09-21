@@ -16,13 +16,9 @@ $ python get_data.py
 
 This will run the following scripts in the `get_scripts` folder (and take a few minutes to complete):
 
-1. `01_download.py`
+1. `01_download.py` -- Grabs the latest .zip of ODI data from [Cricsheet.org](http://cricsheet.org/) and unpacks it to a folder named `all_odis`.
 
-Grabs the latest .zip of ODI data from [Cricsheet.org](http://cricsheet.org/) and unpacks it to a folder named `all_odis`.
-
-2. `02_makemaster.py`
-
-Creates the following files:
+2. `02_makemaster.py` -- Creates two files:
 
 `odi_info.csv` (about 0.1 MB) -- information about the game such as location, teams, toss, etc.
 `odi_ballbyball.csv` (about 50 MB) -- every ball in every ODI match
